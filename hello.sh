@@ -1,2 +1,4 @@
 #!/bin/bash
-#Eu sou Tryber e...
+shell-script-changes
+#Vou ter muito sucesso na programação!
+master
